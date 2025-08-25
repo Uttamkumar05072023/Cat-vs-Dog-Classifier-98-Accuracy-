@@ -65,7 +65,10 @@ The model is trained using **Transfer Learning (ResNet18)** and achieves **98% a
 
 ## 📷 Demo 
 
-![Demo](assets/demo1.jpg) ![Demo](assets/demo2.jpg)
+<p align="center">
+  <img src="assets/demo1.jpg" alt="Demo 1" width="400"/>
+  <img src="assets/demo2.jpg" alt="Demo 2" width="400"/>
+</p>
 
 ---
 
